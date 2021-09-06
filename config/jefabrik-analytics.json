@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jefabrik-analytics",
+  "private_key_id": "a58554767acab5c54ae34492984429966224d7f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbFEZkUe8tLcjy\nM/fnBPknm7Xa49MxlfZGvIWgUXEvopHbB9H2U7wub4Nf641ZDdWjY/pUJ/xR1lum\n3P7/1IroevwikcLDRRz24H4FX1XHLc/FjqN8QKUJA4969cb2gx6mzan4cqM7awWb\nI8Y5dQgLe28uRY1i2UvYdoFMk0w1qCBuetZ2CcCrP1XKOodCt4GA9PtjFzAbmnV4\n4xr9Em62SY9jRAy8ul0Ex0+Q4YM75KBKAkjsrioffH5o8/AFq4Z1inftd2J/8Txz\nLWfYDPM8J1YobDSAkSMbh5yWjJwo6sL6P8p+A6hUYrb/U2eHuyYA90K8Y8mlX6UH\ngKpE70M/AgMBAAECggEAAwRT9dS1BPvA7SjvDITig3ue9P03LtMgWZgGBQ+qDdxg\nwtHoP8qmaENL3VnKkAPjQcVCML9+N4hKqdEYR+Ce6xWqfDVip7q/a9zqj1thPIVy\ne4d70922CBo+8xQIYeOrW+OwKAY4HjzajmjfNXJZooLYJJx7lnVkmH4FSM8seP6p\nsT5LbaUBgoo5LghrfoBkQGBEfyPxY/21T+V/+IM4uhwzNa+vMGEi0oHWjWMLaAhI\nickvoljnXfxV6/5ew9w/DTLhRfPp4Jaf8odht/BvpA3aLpbch9ZHB5Pjbk2dHFKe\nFfhXHSojbPq7cs2ThNkuIopFicjdARsQ87QpwwIvjQKBgQDzihEeNE0hTW3Xg8i/\nS3a2N7H22tT/cfh25RdmCS6W5pmQMrdK3sU+3Kt4adpruyh/Jay3irXxVlqXUXqq\nQBzwBPn2CfKzhkEq2tjfdydASxAlNmdhzhyvwcenjPLIwczfCOpYUnpa/vEZ+ktg\nVZETboksQ9dc02Y7lNdXy41xGwKBgQDmSdLoWpNOgulCETsHGgiO7ulrGaZP4jG4\n6PIuEgt8qdcM+q9mFgd/jVQhH3u7t9otUcwotDggI4+0OUmvyzoVP+/S64yskE8M\nTcbq//wVzIA4Dam8O1+jwU7GmvZSf7rrk5szn1akzvIhVd3QVG4npFOvfNTRPk+g\niuGjRH68rQKBgEU73+ftSGwKPgrBjSVMx7+/j5k01s6T0OXD9OXuAE+n2MoUkOT4\n9awMQbbmqNBtkXKr/DDlfxnPycswv6V8un1FfOYEJ/n/VbFgK71De2YcsMdTcwpr\n9N3GQgMQ38hQx/Qz7aMUN3J8/X+8FweY67hReS+bTbM26d5QTvPHizs3AoGBALn7\nZRnCDLWbhEaXI9TYcZD94gVc8bQSOZXci7opWJ2VjNgunPkVUXjx6r/VbVhtYwa2\nyOsWoT1TevtSSPBwcLg4qrbtBO9YnH6TUdL4ad4xClw6rJoYWWUm+TfsboKyJYOb\n8fv+8zqm52WEs19M0KmzTOKtLjLO4AAIKbJx3ukBAoGAJnkyRRbz+j+SNyNOpGRF\n0W/e7sJAXR6YVH7057RH6BpzeXOT/IpWzGzZ7312u3gFuanb/DijNXnc9259C++x\nkjpqQt3rcbJB3r0lsfFqGSn6z3jkPgnULl4qoV/rT4fLZqRP4NNsGITER2eckXWZ\nlhM4Jr3HFNJ9+XT9/zFumdc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jefabrik-analytics@jefabrik-analytics.iam.gserviceaccount.com",
+  "client_id": "107372661092660537871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jefabrik-analytics%40jefabrik-analytics.iam.gserviceaccount.com"
+}
